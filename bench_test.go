@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gopkg.in/yaml.v2"
+	"github.com/Intellection/yaml"
 )
 
 func newBenchmarkObject() interface{} {

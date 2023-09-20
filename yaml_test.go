@@ -25,8 +25,8 @@ import (
 	"strconv"
 	"testing"
 
+	yaml "github.com/Intellection/yaml"
 	"github.com/google/go-cmp/cmp"
-	yaml "gopkg.in/yaml.v2"
 )
 
 /* Test helper functions */
