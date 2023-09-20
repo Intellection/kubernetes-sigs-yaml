@@ -1,5 +1,5 @@
-github.com/Intellection/yaml v1.0.0 h1:6yEPFOtfWNuVbXWJpnqD8t5szApl0+G/o4Ne4S7oW3g=
-github.com/Intellection/yaml v1.0.0/go.mod h1:9wdc4mDrZA6GwRIP1onTFZc6upB7kO1e46wXyq7Ey4Q=
+github.com/Intellection/yaml v1.0.1 h1:2dajju3vJX8jYdlnSqU3H+jeVzuKCO7YONZ7Q3Lzxrg=
+github.com/Intellection/yaml v1.0.1/go.mod h1:9wdc4mDrZA6GwRIP1onTFZc6upB7kO1e46wXyq7Ey4Q=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
